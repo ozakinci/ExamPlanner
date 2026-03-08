@@ -22,4 +22,5 @@ as a color-coded Excel file and fine-tuned as needed.
 - Everything runs in the browser — no data is sent anywhere, no account needed
 
 ## Usage
-Just open the page. No installation required.
+Open the app: https://ozakinci.github.io/ExamPlanner
+No installation or account required — runs entirely in your browser.
