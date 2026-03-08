@@ -23,4 +23,5 @@ as a color-coded Excel file and fine-tuned as needed.
 
 ## Usage
 Open the app: https://ozakinci.github.io/ExamPlanner
+
 No installation or account required — runs entirely in your browser.
