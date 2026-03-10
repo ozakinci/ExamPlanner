@@ -20,6 +20,7 @@ as a color-coded Excel file and fine-tuned as needed.
 - Sortable summary table per subject (sessions, hours, exam date)
 - Color-coded Excel export with live SUM formulas
 - Everything runs in the browser — no data is sent anywhere, no account needed
+- Friday defaults to 0 study hours (easily adjustable)
 
 ## Usage
 Open the app: https://ozakinci.github.io/ExamPlanner
